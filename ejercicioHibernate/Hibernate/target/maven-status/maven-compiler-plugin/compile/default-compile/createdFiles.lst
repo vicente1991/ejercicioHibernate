@@ -1,0 +1,7 @@
+modelo\Pais$PaisBuilder.class
+repository\PaisRepository.class
+modelo\Producto$ProductoBuilder.class
+modelo\Producto.class
+com\example\Hibernate\HibernateApplication.class
+repository\ProductoRepository.class
+modelo\Pais.class
